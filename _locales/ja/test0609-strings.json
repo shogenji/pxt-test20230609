@@ -1,4 +1,6 @@
 {
+    "tropic.pick|block": "選ぶ %fruit",
+    "tropic.peel|block": "%fruit の皮はむける？",
     "tropic|block": "とろぴっく",
     "{id:category}tropic": "とろぴっく"
 }
